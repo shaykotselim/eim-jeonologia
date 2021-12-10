@@ -1,0 +1,35 @@
+/* body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+} */
+header{
+    background-image: url(./img/eim-forest-background.jpg);
+
+    background-repeat: no-repeat;
+    background-position: top;
+
+   
+}
+
+.center{
+    margin-left: 50%;
+    margin-right: 50%;
+
+}
+.enviromental{
+    background-image: url(./img/eim-forest.jpg);
+    background-repeat: no-repeat;
+}
+
+.backgorund-color-card{
+    background-color:rgb(226, 222, 222);
+}
+
+.claculation{
+    background-color: rgb(236, 234, 234);
+    background-repeat: no-repeat;
+}
+.lastsection{
+    background-image: url(./img/eim-login-lake.jpg);
+    background-repeat: no-repeat;
+}
